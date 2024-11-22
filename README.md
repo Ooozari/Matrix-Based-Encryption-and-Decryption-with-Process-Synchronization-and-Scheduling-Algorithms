@@ -1,0 +1,2 @@
+# Matrix-Based-Encryption-and-Decryption-with-Process-Synchronization-and-Scheduling-Algorithms
+The goal of this project is to create a program that encrypts and decrypts user-provided data using matrix operations. The encryption and decryption processes will be managed through a producer-consumer model, where semaphores control synchronization, and the encryption will be executed using the Round Robin scheduling algorithm.
